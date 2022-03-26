@@ -2,7 +2,7 @@
 
 Welcome!
 
-- 💻 I am in web3 now with my tech stacks.
+- 💻 I am in web3 now with my Solidity/React/Typescript/Next/Node/EVM/Javascript/Web3.js/Nest.
 - 📚 I’m currently learning [Rust](https://www.rust-lang.org/) and [Solana](https://solana.com/).
 - ☀️ I made a NFT markeplace and Defi platforms for the startups
 - 👨‍🍳 I eat a lot of this 🥩 🍖 🍗 🥓 🍳 and I drink a lot of this ☕
