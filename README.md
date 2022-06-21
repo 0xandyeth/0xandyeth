@@ -2,7 +2,7 @@
 
 Welcome!
 
-- 💻 I am in web3 now with my Solidity/React/Typescript/Next/Node/EVM/Solana/Javascript/Web3.js/Nest.
+- 💻 I am in web3 now with my Solidity/React/Typescript/Next/Node/Graphql/EVM/Solana/Javascript/Web3.js/Nest.
 - 📚 I had the certificate for [Rust programming](https://triplebyte.com/tb/dingtian-mh8pvs7/certificate).
 - ☀️ I made a NFT markeplace and Defi platforms for the startups
 - 👨‍🍳 I eat a lot of this 🥩 🍖 🍗 🥓 🍳 and I drink a lot of this ☕
