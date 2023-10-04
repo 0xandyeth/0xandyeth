@@ -12,7 +12,7 @@
 <br>
 
 - 💻 I am in the web industry now with my React/Typescript/Next/Node/Graphql/EVM/Go/Javascript/Web3.js/Nest.
-- 👨‍💻 I have been a full stack developer for 8 years. During this time, I have developed my strong expertise using javascript.
+- 👨‍💻 I have been a full stack developer for 8 years. During this time, I have developed my strong expertise using JavaScript.
 - 📚 I have a certificate for blockchain technology.
 - 🌍 I made an NFT marketplace and Defi platforms for the startups.
 - 👨‍🍳 I eat a lot of this 🥩 🍖 🍗 🥓 🍳 and I drink a lot of this ☕
