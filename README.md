@@ -11,10 +11,11 @@
 
 <br>
 
-- 💻 I am in the web industry now with my React/Typescript/Next/Node/Graphql/EVM/Go/Javascript/Web3.js/Nest.
+- 💻 I am in the web industry now with modern web technologies.
 - 👨‍💻 I have been a full stack developer for 8 years. During this time, I have developed my strong expertise using JavaScript.
-- 📚 I have a certificate for blockchain technology.
-- 🌍 I made an NFT marketplace and Defi platforms for the startups.
+- 👯 I will be happy to collaborate in the Web Industry.
+- 🤝 I am looking to meet with **Smart Web developers**
+- 👨‍💻 All of my projects are available at my GitHub repositories.
 - 👨‍🍳 I eat a lot of this 🥩 🍖 🍗 🥓 🍳 and I drink a lot of this ☕
 
 <h3 align="left">Programming Lanugages I have work with:</h3>
