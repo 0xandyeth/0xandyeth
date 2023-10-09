@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Andy Jiang</h1>
+<h1 align="center">Hi 👋, My name is Andy</h1>
 <h3 align="center">I am a Fullstack Web Developer</h3>
 
 <h3 align="center">Connect with me on:</h3>
