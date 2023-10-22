@@ -11,7 +11,7 @@
 <br>
 
 - 💻 I am in the web industry now with modern web technologies.
-- 👨‍💻 I have been a full stack developer for 8 years. During this time, I have developed my strong expertise using JavaScript.
+- 👨‍💻 I have been a full stack developer for 8 years. During this time, I have developed my strong expertise using JavaScript and Python.
 - 👯 I will be happy to collaborate in the Web Industry.
 - 🤝 I am looking to meet with **Smart Web developers**
 - 👨‍💻 All of my projects are available at my GitHub repositories.
